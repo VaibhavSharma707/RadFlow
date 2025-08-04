@@ -1,3 +1,4 @@
 ChestXray/best_model.pt filter=lfs diff=lfs merge=lfs -text
 ChestXray/best_model.pt filter=lfs diff=lfs merge=lfs -text
 ChestXray/model.pth filter=lfs diff=lfs merge=lfs -text
+ChestXray/model.pth filter=lfs diff=lfs merge=lfs -text
